@@ -163,8 +163,12 @@ const SignIn = (props) => {
             </Grid>
           </form>
         </div>
+        <h5>Demo account: admin@scarletmail.rutgers.edu</h5>
+        <h5>Password: admin123</h5>
       </Grid>
+     
     </Grid>
+    
   );
 };
 
