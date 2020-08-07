@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56bc0e712872656172b6aafc032b072f",
+    "revision": "bd2d9733d625a8ea8bfc2867ac6919cb",
     "url": "/AdminRutgersMenu/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AdminRutgersMenu/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "6adea8b4ed1471f50bf2",
+    "revision": "a880d60d074eae7e3e1e",
     "url": "/AdminRutgersMenu/static/css/main.6f983e24.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AdminRutgersMenu/static/js/2.1c1f3682.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6adea8b4ed1471f50bf2",
-    "url": "/AdminRutgersMenu/static/js/main.a2611f85.chunk.js"
+    "revision": "a880d60d074eae7e3e1e",
+    "url": "/AdminRutgersMenu/static/js/main.eaf88db1.chunk.js"
   },
   {
     "revision": "6cb05e799ac622adbb23",

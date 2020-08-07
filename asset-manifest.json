@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AdminRutgersMenu/static/css/main.6f983e24.chunk.css",
-    "main.js": "/AdminRutgersMenu/static/js/main.a2611f85.chunk.js",
-    "main.js.map": "/AdminRutgersMenu/static/js/main.a2611f85.chunk.js.map",
+    "main.js": "/AdminRutgersMenu/static/js/main.eaf88db1.chunk.js",
+    "main.js.map": "/AdminRutgersMenu/static/js/main.eaf88db1.chunk.js.map",
     "runtime-main.js": "/AdminRutgersMenu/static/js/runtime-main.310cd3bc.js",
     "runtime-main.js.map": "/AdminRutgersMenu/static/js/runtime-main.310cd3bc.js.map",
     "static/css/2.af3c1da9.chunk.css": "/AdminRutgersMenu/static/css/2.af3c1da9.chunk.css",
     "static/js/2.1c1f3682.chunk.js": "/AdminRutgersMenu/static/js/2.1c1f3682.chunk.js",
     "static/js/2.1c1f3682.chunk.js.map": "/AdminRutgersMenu/static/js/2.1c1f3682.chunk.js.map",
     "index.html": "/AdminRutgersMenu/index.html",
-    "precache-manifest.15c4d4f283d9cd39aacb16d83e3bb493.js": "/AdminRutgersMenu/precache-manifest.15c4d4f283d9cd39aacb16d83e3bb493.js",
+    "precache-manifest.dde95ffafa4f1555847bb34a0d67885c.js": "/AdminRutgersMenu/precache-manifest.dde95ffafa4f1555847bb34a0d67885c.js",
     "service-worker.js": "/AdminRutgersMenu/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/AdminRutgersMenu/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.6f983e24.chunk.css.map": "/AdminRutgersMenu/static/css/main.6f983e24.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.1c1f3682.chunk.js",
     "static/css/main.6f983e24.chunk.css",
-    "static/js/main.a2611f85.chunk.js"
+    "static/js/main.eaf88db1.chunk.js"
   ]
 }
