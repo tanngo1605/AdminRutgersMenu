@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See live: 
+Public page: https://tanngo1605.github.io/RutgersMenu/
+Admin page: https://tanngo1605.github.io/AdminRutgersMenu/
 
 ## Available Scripts
 
